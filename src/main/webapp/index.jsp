@@ -14,7 +14,7 @@
 </head>
 <body>
 	<div class="container">
-		<h3>IThome HOL New Employee Registration Form</h3>
+		<h3>New Employee Registration Form</h3>
 
 		<div class="panel panel-default">
 			<div class="panel-body">
