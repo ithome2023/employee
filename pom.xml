@@ -84,7 +84,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>2023hol</finalName>
+		<finalName>employee</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
